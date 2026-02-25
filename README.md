@@ -21,7 +21,6 @@ CGPA: 8.0/10
 ## 🚀 Projects
 
 ### 🔹 LakshyaMarg – AI Smart Education Platform  
-**SIH Internal Hackathon (Ongoing) – 2025**
 
 LakshyaMarg is an AI-powered education platform designed to bridge the gap between education and career opportunities.
 

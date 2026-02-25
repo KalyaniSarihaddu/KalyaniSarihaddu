@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarihaddu Kalyani</h1>
+<h1 align="center">Hi 👋, I'm Kalyani Sarihaddu</h1>
 <h3 align="center">CSE (AI & ML) Student | AI Enthusiast | Exploring Web Development</h3>
 
 ---

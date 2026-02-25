@@ -66,4 +66,6 @@ Always eager to learn, build, and grow as a developer.
 ---
 
 ## 📫 Connect With Me
+-  Email :kalyani.s0925@gmail.com
 - LinkedIn: https://linkedin.com/in/kalyani-sarihaddu-934946330
+-  Phone  : 7893606229
